@@ -1,0 +1,40 @@
+
+body{
+
+background-color:  #393E46;
+}
+
+
+/* body section */
+
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 7rem;
+  color: #4ECCA3;
+}
+
+
+#challenge{
+
+  text-align: center;
+  margin:6% 10%;
+
+}
+
+.dicey{
+
+  font-family: 'Indie Flower', cursive;
+  display: inline-block;
+  padding:0 7% 9%;
+  font-size: 2rem;
+
+}
+
+/* image */
+
+
+img{
+
+  width:60%;
+}
